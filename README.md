@@ -1,11 +1,11 @@
 <h2>Hello! I am Lucas Souza!</h2>
 
 Aspiring Web Developer!
-I'm currently a student @Trybe <img src=https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png>
+I'm currently a student @Trybe <img src="https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png" width= "50">
 As of today I am learning HTML and CSS!
 
 He/Him
-Dog person <img src=https://thumbs.gfycat.com/WhirlwindBoldAcornweevil-max-1mb.gif>
+Dog person <img src="https://thumbs.gfycat.com/WhirlwindBoldAcornweevil-max-1mb.gif" width = "40">
 <!---
 - 👋 Hi, I’m Lucas Souza
 - 👀 I’m interested in ...
