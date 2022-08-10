@@ -5,7 +5,7 @@
 <p>As of today I am learning HTML and CSS!
 
 <p>He/Him
-<p>Dog person <img src="https://thumbs.gfycat.com/WhirlwindBoldAcornweevil-max-1mb.gif)" width = "60">
+<p>Dog person <img src="https://thumbs.gfycat.com/WhirlwindBoldAcornweevil-max-1mb.gif" width = "60">
 <!---
 - 👋 Hi, I’m Lucas Souza
 - 👀 I’m interested in ...
