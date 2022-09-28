@@ -2,7 +2,7 @@
 
 <h3>Aspiring Web Developer!</h3>
 <p>I'm currently a student @Trybe <img src="https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png" width= "50">
-<p>As of today I am learning HTML and CSS!
+<p>As of today I've learned HTML, DOM manipulation, CSS and JavaScript Fundamentals! Still early on my developer road, but I'll get there!
 
 <p>He/Him
 <p>Dog person <img src="https://thumbs.gfycat.com/AjarEuphoricAmericanratsnake-max-1mb.gif" width = "60">
