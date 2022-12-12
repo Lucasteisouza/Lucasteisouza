@@ -6,11 +6,7 @@
  <h4>Still early on my developer road, but I'll get there!</h4>
  
  <p> You can reach me at https://www.linkedin.com/in/lucasteisouza/ </p>
- <p>See you space cowboy</p>
- 
 
-<p>He/Him
-<p>Dog person <img src="https://thumbs.gfycat.com/AjarEuphoricAmericanratsnake-max-1mb.gif" width = "60">
 <!---
 - 👋 Hi, I’m Lucas Souza
 - 👀 I’m interested in ...
