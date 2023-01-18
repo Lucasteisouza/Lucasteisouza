@@ -1,6 +1,6 @@
-<h2>Hello! I am Lucas Souza!</h2>
+## Hello! I am **Lucas Souza**!
 
-<h3>Aspiring Web Developer!</h3>
+### Aspiring Web Developer!
 
 Ex-microbiologist currently going thru a career transition to become a Web Developer.
 
