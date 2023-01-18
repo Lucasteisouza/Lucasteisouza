@@ -10,6 +10,8 @@ Trybe is a very recognized school with a teaching method based mainly on practic
 
 I hope to be able to improve people's lives through programming.
  
+ Compentencies:  HTML, CSS, JavaScript, Jest, RTL, React, Redux.
+ 
  You can reach me at lucasteisouza@gmail.com
 
 <!---
