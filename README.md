@@ -1,11 +1,16 @@
 <h2>Hello! I am Lucas Souza!</h2>
 
 <h3>Aspiring Web Developer!</h3>
-<p>I'm currently a student @Trybe <br><img src="https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png" width= "50">
-<p>As of today I've learned HTML, DOM manipulation, CSS and JavaScript Fundamentals! 
- <h4>Still early on my developer road, but I'll get there!</h4>
+
+Ex-microbiologist currently going thru a career transition to become a Web Developer.
+
+I've always been interested in programming and every innovation this skill can bring to the world.
+I decided to take Trybe's course in Web Development to learn more.
+Trybe is a very recognized school with a teaching method based mainly on practical application skills.
+
+I hope to be able to improve people's lives through programming.
  
- <p> You can reach me at https://www.linkedin.com/in/lucasteisouza/ </p>
+ You can reach me at lucasteisouza@gmail.com
 
 <!---
 - 👋 Hi, I’m Lucas Souza
