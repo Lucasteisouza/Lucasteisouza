@@ -23,6 +23,10 @@ I hope to be able to improve people's lives through programming.
  
  You can reach me at lucasteisouza@gmail.com
  
+ [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasteisouza/)](https://www.linkedin.com/in/lucasteisouza/)
+ 
+ [![](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5531975441211) 
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasteisouza&layout=compact)](https://github.com/Lucasteisouza/github-readme-stats)
 
 <!---
