@@ -27,6 +27,7 @@ I hope to be able to improve people's lives through programming.
  ![Python](https://img.shields.io/badge/python-yellow.svg?style=for-the-badge&logo=python)
  
  Testing:
+ 
  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
  ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
  ![Mocha](https://img.shields.io/badge/mocha-peru.svg?style=for-the-badge&logo=mocha&logoColor=black)
@@ -34,7 +35,9 @@ I hope to be able to improve people's lives through programming.
  ![Pytest](https://img.shields.io/badge/pytest-gold.svg?style=for-the-badge&logo=pytest)
  
  You can reach me at lucasteisouza@gmail.com
+ 
  or
+ 
  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasteisouza/)](https://www.linkedin.com/in/lucasteisouza/)
  
  [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5531975441211) 
