@@ -25,6 +25,7 @@ I hope to be able to improve people's lives through programming.
  ![MySQL](https://img.shields.io/badge/mysql-indigo.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![JWT](https://img.shields.io/badge/JWT-firebrick.svg?style=for-the-badge&logo=jsonwebtokens)
  ![Python](https://img.shields.io/badge/python-yellow.svg?style=for-the-badge&logo=python)
+ ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp)
  
  Testing:
  
