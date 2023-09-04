@@ -20,7 +20,7 @@ I hope to be able to improve people's lives through programming.
  ![Next.js](https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
  ![Node.js](https://img.shields.io/badge/node.js-grey.svg?style=for-the-badge&logo=node.js)
  ![Express](https://img.shields.io/badge/express-darkgreen.svg?style=for-the-badge&logo=express)
- ![Nest.js](https://img.shields.io/badge/next.js-red.svg?style=for-the-badge&logo=nestjs)
+ ![Nest.js](https://img.shields.io/badge/next.js-whitesmoke.svg?style=for-the-badge&logo=nestjs&logoColor=red)
  ![Sequelize](https://img.shields.io/badge/sequelize-teal.svg?style=for-the-badge&logo=sequelize&logoColor=white)
  ![TypeScript](https://img.shields.io/badge/typescript-whitesmoke.svg?style=for-the-badge&logo=typescript)
  ![Docker](https://img.shields.io/badge/docker-navy.svg?style=for-the-badge&logo=docker)
