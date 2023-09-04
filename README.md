@@ -1,14 +1,12 @@
 ## Hello! I am **Lucas Souza**!
 
-### Aspiring Web Developer!
+### FullStack Web Developer!
 
-Ex-microbiologist currently going thru a career transition to become a Web Developer.
+Ex-microbiologist currently transitioning to a career as a Web Developer.
 
-I've always been interested in programming and every innovation this skill can bring to the world.
-I decided to take Trybe's course in Web Development to learn more.
-Trybe is a very recognized school with a teaching method based mainly on practical application skills.
+I have always been interested in programming and the potential for innovation that this skill can bring to the world. I decided to take Trybe's Web Development course to learn more. Trybe is a highly-regarded school with a teaching method that focuses on practical application skills.
 
-I hope to be able to improve people's lives through programming.
+I am passionate about using programming to improve people's lives. I believe that technology can be used to solve real-world problems and make the world a better place. I am excited to start my new career as a Web Developer and use my skills to make a positive impact.
  
  Compentencies:
  
