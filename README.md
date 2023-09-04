@@ -44,11 +44,11 @@ I hope to be able to improve people's lives through programming.
  
  or
  
- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasteisouza/)](https://www.linkedin.com/in/lucasteisouza/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasteisouza/)](https://www.linkedin.com/in/lucasteisouza/)
  
- [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5531975441211) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5531975441211) 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasteisouza&layout=compact)](https://github.com/Lucasteisouza/github-readme-stats)
+([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasteisouza)](https://github.com/Lucasteisouza/github-readme-stats))
 
 <!---
 - 👋 Hi, I’m Lucas Souza
