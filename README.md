@@ -29,7 +29,7 @@ I hope to be able to improve people's lives through programming.
  ![Python](https://img.shields.io/badge/python-yellow.svg?style=for-the-badge&logo=python)
  ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp)
  ![.NET](https://img.shields.io/badge/.net-blue.svg?style=for-the-badge&logo=dotnet)
- ![AWS](https://img.shields.io/badge/aws-yellow.svg?style=for-the-badge&logo=amazonaws)
+ ![AWS](https://img.shields.io/badge/aws-yellow.svg?style=for-the-badge&logo=amazonaws&logoColor=black)
  ![Azure](https://img.shields.io/badge/azure-white.svg?style=for-the-badge&logo=microsoftazure&logoColor=blue)
  
  Testing:
