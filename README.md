@@ -17,8 +17,10 @@ I hope to be able to improve people's lives through programming.
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+ ![Next.js](https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
  ![Node.js](https://img.shields.io/badge/node.js-grey.svg?style=for-the-badge&logo=node.js)
  ![Express](https://img.shields.io/badge/express-darkgreen.svg?style=for-the-badge&logo=express)
+ ![Nest.js](https://img.shields.io/badge/next.js-red.svg?style=for-the-badge&logo=nestjs)
  ![Sequelize](https://img.shields.io/badge/sequelize-teal.svg?style=for-the-badge&logo=sequelize&logoColor=white)
  ![TypeScript](https://img.shields.io/badge/typescript-whitesmoke.svg?style=for-the-badge&logo=typescript)
  ![Docker](https://img.shields.io/badge/docker-navy.svg?style=for-the-badge&logo=docker)
@@ -26,6 +28,9 @@ I hope to be able to improve people's lives through programming.
  ![JWT](https://img.shields.io/badge/JWT-firebrick.svg?style=for-the-badge&logo=jsonwebtokens)
  ![Python](https://img.shields.io/badge/python-yellow.svg?style=for-the-badge&logo=python)
  ![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=c-sharp)
+ ![.NET](https://img.shields.io/badge/.net-blue.svg?style=for-the-badge&logo=dotnet)
+ ![AWS](https://img.shields.io/badge/aws-yellow.svg?style=for-the-badge&logo=amazonaws)
+ ![Azure](https://img.shields.io/badge/azure-white.svg?style=for-the-badge&logo=microsoftazure&logoColor=blue)
  
  Testing:
  
