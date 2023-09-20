@@ -1,4 +1,4 @@
-## Hello! I am **Lucas Souza**!
+## Hello👋 I am **Lucas Souza**!
 
 ### FullStack Web Developer!
 
