@@ -38,7 +38,7 @@ I am passionate about using programming to improve people's lives. I believe tha
  ![Chai](https://img.shields.io/badge/chai-dimgray.svg?style=for-the-badge&logo=chai)
  ![Pytest](https://img.shields.io/badge/pytest-gold.svg?style=for-the-badge&logo=pytest)
  
- You can reach me at lucasteisouza@gmail.com
+✉️ You can reach me at lucasteisouza@gmail.com
  
  or
  
