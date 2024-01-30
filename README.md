@@ -2,11 +2,11 @@
 
 ### FullStack Web Developer!
 
-Ex-microbiologist currently transitioning to a career as a Web Developer.
+Former microbiologist in the process of transitioning to a career as a Web Developer.
 
-I have always been interested in programming and the potential for innovation that this skill can bring to the world. I decided to take Trybe's Web Development course to learn more. Trybe is a highly-regarded school with a teaching method that focuses on practical application skills.
+My journey into programming stems from a long-standing fascination with the potential for innovation that this skill brings to the world. To deepen my understanding, I enrolled in Trybe's Web Development course—an esteemed institution renowned for its emphasis on practical application skills. Upon completing the course, I pursued the Santander Coders scholarship in partnership with Ada Tech, where I am presently immersing myself in the realm of becoming a data engineer.
 
-I am passionate about using programming to improve people's lives. I believe that technology can be used to solve real-world problems and make the world a better place. I am excited to start my new career as a Web Developer and use my skills to make a positive impact.
+My passion lies in leveraging programming to enhance people's lives. I firmly believe that technology has the power to address real-world issues and contribute to making our world a better place. As I embark on this exciting transition into my new role as a Web Developer, I am eager to utilize my skills to create a positive impact.
  
  Compentencies:
  
