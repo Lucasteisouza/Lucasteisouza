@@ -1,13 +1,12 @@
-## Hello 👋 I am **Lucas Souza**!
+# Hello, I'm Lucas Souza 👋
 
-### FullStack Web Developer | Former Microbiologist | Aspiring Data Engineer
+### Software Engineer at Artefact | Former Microbiologist | Data & AI Enthusiast
 
-I’m a former microbiologist transitioning into a career as a Web Developer. My fascination with programming comes from its power to innovate and solve real-world problems.
+Software Engineer at **[Artefact](https://artefact.com/)**, a global data and AI consulting firm. With a solid foundation in Full Stack Development and a scientific background in Microbiology, I bring a unique perspective to complex problem-solving, blending analytical rigor from science with technological innovation.
 
-I completed **Trybe's Fullstack Web Development course** and currently deepen my knowledge through the **Santander Coders scholarship in partnership with Ada Tech**, exploring the path to becoming a data engineer.
+My journey into programming is driven by a firm belief in the power of data and technology to create real-world impact. My technical foundation was built on two pillars: the **Trybe** Fullstack Web Development course, which gave me a solid base, and the **Santander Coders** scholarship in partnership with **Ada Tech**, which steered my focus toward the world of data engineering.
 
-I’m passionate about **leveraging technology to make a positive impact** on people's lives and creating meaningful solutions.
-
+I am focused on building scalable, data-driven solutions that transform data into business value
 ---
 
 ## 💻 Skills & Competencies
